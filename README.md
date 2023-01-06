@@ -1,4 +1,4 @@
-# Basic App to test Catalyst usecase
+# Basic App to test Zoho Catalyst usecase
 
 ### Catalyst Features
 - Functions (Advanced I/O)
